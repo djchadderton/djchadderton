@@ -1,4 +1,8 @@
-### Hi there 👋
+David Chadderton is from Manchester. He took over as [British Theatre Guide](https://www.britishtheatreguide.info/) editor from founder Peter Lathan in 2012 after covering the north west as regional editor for a number of years. He was a founder panellist for the Manchester Theatre Awards until it was disbanded in 2018.
+
+He has been teaching theatre, from primary schools and youth groups up to undergraduate, for more than 30 years and has written two books on the subject: *Practical Drama* (2002 and 2006) and *The Theatre Makers* (2008), both published by Studymates. He also has a BA (hons) in Theatre Studies from Rose Bruford College and an MA in scriptwriting from University of Glamorgan. He currently teaches undergraduates at [Rose Bruford College](https://www.bruford.ac.uk/) and drama workshops for [Mainstream Theatre Arts](https://mainstreamstudios.co.uk/).
+
+He has written and directed scripts for young performers and young audiences, from pantomimes and dance shows to theatre-in-education programmes. Besides BTG, he has written for a number of publications and appeared as a specialist on local and national radio and TV, plus he produced and presented his own weekly theatre show on a community radio station in East Cheshire for more than three years. He is a member of the [Writers’ Guild of Great Britain](https://writersguild.org.uk/) and the [Critics’ Circle](https://criticscircle.org.uk/).
 
 <!--
 **djchadderton/djchadderton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
